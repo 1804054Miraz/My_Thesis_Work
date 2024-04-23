@@ -2,7 +2,7 @@
 My thesis works are included
 
 # Best Accuracy:
-## Here we used 61 channels
+## Here we used 64 channels
 ### ML apply in on Gamma and KatzFD Band.ipynb 
 https://colab.research.google.com/drive/1Ylcq53Hncw3bW2LHdDqL0no0UfQ_yh_Y
 
