@@ -25,3 +25,15 @@ https://colab.research.google.com/drive/1K0-SzzrQmgerFzoDtAL0EL9Wajp14RuN#scroll
 
 # Time-domain to Frequency-domain.ipynb (Conversion)
 https://colab.research.google.com/drive/1fZYRtnlMSI_06C39R_0hfwKJKQadXPZV#scrollTo=t4HzZmtxVjer
+
+# Thesis Data information
+Total data information:
+non_alcoholic files: 43,
+In, one file, row x column = 256 x 64 = 16384
+Total data in 43 files are = 16384 x 43 = 704512
+
+Alcoholic files: 43
+In, one file, row x column = 256 x 64 = 16384
+Total data in 43 files are = 16384 x 43 = 704512
+
+Total data : alcoholic + non_alcoholic = 704512 x 2 = 1409024
