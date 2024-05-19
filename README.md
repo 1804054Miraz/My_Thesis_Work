@@ -28,12 +28,9 @@ https://colab.research.google.com/drive/1fZYRtnlMSI_06C39R_0hfwKJKQadXPZV#scroll
 
 # Thesis Data information
 Total data information:
-non_alcoholic files: 43,
-In, one file, row x column = 256 x 64 = 16384
-Total data in 43 files are = 16384 x 43 = 704512
+non_alcoholic Subjects are 43 and and alcoholic subjects are 43. Total trials from the 86 subjects are 7622. Each trial has 64 columns and 256 rows of data.
+Total number of data in each trial : row x column = 256 x 64 = 16384
+Total data in 86 files as well as 7622 are = 16384 x 7622 = 12,48,78,848
 
-Alcoholic files: 43
-In, one file, row x column = 256 x 64 = 16384
-Total data in 43 files are = 16384 x 43 = 704512
-
-Total data : alcoholic + non_alcoholic = 704512 x 2 = 1409024
+non_alcoholic_path = '/content/drive/MyDrive/Dataset/EEG_FULL/Transfer_new_non_alcoholic'
+alcoholic_path = '/content/drive/MyDrive/Dataset/EEG_FULL/New_alcoholic'
