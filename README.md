@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/1fZYRtnlMSI_06C39R_0hfwKJKQadXPZV#scroll
 
 # Thesis Data information
 Total data information:
-non_alcoholic Subjects are 43 and and alcoholic subjects are 43. Total trials from the 86 subjects are 7622. Each trial has 64 columns and 256 rows of data.
+Alcoholic Subjects are 43 and non-alcoholic subjects are 43. The total number of trials from the 86 subjects is 7622. Each trial has 64 columns and 256 rows of data.
 Total number of data in each trial : row x column = 256 x 64 = 16384
 Total data in 86 files as well as 7622 are = 16384 x 7622 = 12,48,78,848
 
